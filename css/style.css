@@ -74,3 +74,9 @@ ul {
   font-size: 0.95em;
   color: #666;
 }
+a {
+  color: inherit;        /* use normal text color */
+  text-decoration: none; /* remove underline */
+  padding: 0;            /* no padding */
+  margin: 0;             /* no margin */
+}
