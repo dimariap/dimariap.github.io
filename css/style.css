@@ -76,14 +76,14 @@ ul {
 }
 
 a {
-  color: inherit;        /* use normal text color */
-  text-decoration: none; /* remove underline */
-  padding: 0;            /* no padding */
-  margin: 0;             /* no margin */
+  color: inherit;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 5px;        /* remove all margin */
-  padding: 5px;       /* remove padding if any */
-  line-height: 1.2; /* tighter vertical spacing */
+  margin: 2px;
+  padding: 2px;
+  line-height: 1.2;
 }
